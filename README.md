@@ -5,7 +5,7 @@ Team size:- 4
 Team Members details:-
 1.	Vishal Bansal(Team leader)
 2.	Shubham Sharma
-3.	Lakshya Namedev
+3.	Lakshya Namdev
 4.	Ritik Agarwal
 Problem Statement:- With the advances in technology about sentiment analysis and predictive analytics, it has opened many avenues for researchers and enterprises to understand human mental state better. The proposed challenge is to know the emotion/mood of a person, to help in eliminating any negative state of mind that might have adverse effect on his/her daily life.
 PROBLEM DESCRIPTION:- A person’s emotions and moods have direct bearings on his/her daily activities. It is necessary to eliminate negative emotions that our family or friends might be experiencing, to help them lead a better life. Research has shown that social networking activity is a good source to gauge a person’s state of mind [1]. Mood of a user is often reflected in his/her social content, like tweets, blogs, article, status updates, etc. Timely analysis of a user’s social media can be used to improve the feelings, and even save a person’s life in an extreme case! Hence it becomes important to regularly analyze the social-media health of our friends and family to take timely action.
